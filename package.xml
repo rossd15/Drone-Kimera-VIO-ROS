@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>tunnel_kimera_vio_ros</name>
+  <name>drone_kimera_vio_ros</name>
   <version>5.0.0</version>
   <description>KimeraVIO ROS Wrapper</description>
 
