@@ -44,8 +44,8 @@
     version: master
     # Last tested commit: d48028de5b27a3cf51bd1cd538e4c54ac568154d
 - git:
-    local-name: Tunnel-Kimera-VIO
-    uri: https://github.com/wvu-navLab/Tunnel-Kimera-VIO.git
+    local-name: Drone-Kimera-VIO
+    uri: https://github.com/rossd15/Drone-Kimera-VIO.git
     version: master
     # Last tested commit: 2efbc572940dd56b8c6caf6d159cd7afd390d28e
 - git:
